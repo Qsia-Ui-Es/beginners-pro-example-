@@ -17,7 +17,7 @@ buildscript {
 
 allprojects {
     repositories {
-        google()
+        apps-sia()
         jcenter()
     }
 }
